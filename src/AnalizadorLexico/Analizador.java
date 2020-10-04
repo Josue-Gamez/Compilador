@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.regex.*;
 import javax.swing.JOptionPane;
 
-//C:\Users\ELISEO BLANCO\Desktop\TECNM2019EBR\programa.txt
+
 
 public class Analizador
 {

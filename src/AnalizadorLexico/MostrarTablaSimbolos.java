@@ -46,7 +46,7 @@ public class MostrarTablaSimbolos extends JFrame
 		add(new JScrollPane(j), BorderLayout.CENTER);
 		pack();
 		//setSize(500, 200);
-		//C:\Users\ELISEO BLANCO\Desktop\TECNM2019EBR\programa.txt
+		
 	}
 }
 
